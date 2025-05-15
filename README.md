@@ -1,9 +1,5 @@
 # Photometry on the Moon
 
-[![GitHub license](https://img.shields.io/github/license/LanceryH/thesis_private?color=orange)](https://github.com/LanceryH/thesis_private/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/LanceryH/thesis_private?color=blue)](https://github.com/LanceryH/thesis_private/issues)
-[![GitHub stars](https://img.shields.io/github/stars/LanceryH/thesis_private)](https://github.com/LanceryH/thesis_private/stargazers)
-
 Here is my thesis work on Lunar photometry, for any questions don't hesitate to contact me !
 
 <div align="center">
