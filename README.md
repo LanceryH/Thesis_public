@@ -12,9 +12,9 @@ Here is my thesis work on Lunar photometry, for any questions don't hesitate to 
 
 ## How to grant access
 
-1. Send me an email with your reasons at lancery.hugo@outlook.com
+Please send me an email at lancery.hugo@outlook.com with a brief explanation of why you'd like access.
 
-2. You will get access to the private repository !
+You will receive access to the private repository shortly!
 
 ## Project context
 
